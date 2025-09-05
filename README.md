@@ -56,8 +56,8 @@ require("jpp_search").setup({ bin = "/path/to/jpp" })
 
 ```lua
 {
-  -- Replace with your repo path once published
-  "YOURUSER/jpp-search.nvim",
+  -- Replace with your repo path if forked
+  "katsarosi/jpp-search.nvim",
   ft = { "json", "jsonc" },
   opts = {
     -- bin = "/usr/local/bin/jpp",  -- if not on PATH
