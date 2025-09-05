@@ -220,7 +220,7 @@ plugin/jpp_search.lua       -- runtime entrypoint (self-setup)
 
 ## License
 
-MIT © You / Your Org (replace in `LICENSE`)
+MIT © [Iasonas Katsaros](LICENSE)
 
 ---
 
