@@ -20,7 +20,7 @@ M.defaults = {
     attach_mappings = nil,  -- optional function(pbufnr, map) -> boolean
   },
   messages = {
-    missing_bin = "jpp binary not found. Set `require('jpp_search').setup{ bin = '/path/to/jpp' }` or put it on $PATH.",
+    missing_bin = "jpp binary not found. Set `require('jpp_search').setup{ bin = '/path/to/jpp' }` or put it on $PATH.\n # Installation: npm global\n npm install -g @jsware/jsonpath-cli",
   },
 }
 
