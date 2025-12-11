@@ -45,6 +45,10 @@ jpp --version
 ```
 
 If `which jpp` returns nothing, install `jpp` via your system’s method, **or** point the plugin at an explicit path:
+```bash
+# Installation: npm global
+npm install -g @jsware/jsonpath-cli
+```
 
 ```lua
 require("jpp_search").setup({ bin = "/path/to/jpp" })
